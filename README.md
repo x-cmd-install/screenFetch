@@ -14,11 +14,11 @@ x install screenFetch
 
 ## Code insight
 
-Total: **6,340** lines of code across **2** files in the top 5 languages.
+Total: **6,391** lines of code across **2** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Bash | 6,324 | 225 | 264 | 1 |
+| Bash | 6,375 | 229 | 264 | 1 |
 | Sh | 16 | 1 | 6 | 1 |
 
 ## OpenSSF Scorecard
@@ -39,26 +39,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.9.9` (2024-12-03)
-- **Last commit**: 2024-12-03
+- **Last commit**: 2026-10-09
 
 ## Popularity
 
-- **Stars**: 4,071 · **Forks**: 447 · **Open issues**: 384 · **Contributors**: 153
+- **Stars**: 4,071 · **Forks**: 448 · **Open issues**: 384 · **Contributors**: 158
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 289 · **Open PRs**: 39 · **Closed issues**: 251 · **Open issues**: 133 · **Commits**: 1502
+- **Releases**: 4 · **Merged PRs**: 296 · **Open PRs**: 33 · **Closed issues**: 251 · **Open issues**: 133 · **Commits**: 1509
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-09 | 0 | 0 | 2 | 0 | 1 | 0 |
-| 90d | 2026-07-10 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last180d | 2026-04-11 | 0 | 0 | 2 | 0 | 1 | 0 |
-| 360d | 2025-10-13 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last720d | 2024-10-18 | 1 | 0 | 6 | 1 | 10 | 2 |
+| 30d | 2026-09-09 | 0 | 2 | 0 | 0 | 1 | 7 |
+| last60d | 2026-08-10 | 0 | 3 | 0 | 0 | 1 | 7 |
+| 90d | 2026-07-11 | 0 | 3 | 0 | 0 | 1 | 7 |
+| last180d | 2026-04-12 | 0 | 3 | 0 | 0 | 1 | 7 |
+| 360d | 2025-10-14 | 0 | 3 | 0 | 0 | 1 | 7 |
+| last720d | 2024-10-19 | 1 | 5 | 2 | 1 | 10 | 9 |
 
 ## Improve this data
 
@@ -69,4 +69,4 @@ Install metadata for screenFetch lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T05:52:47Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T05:57:41Z._
