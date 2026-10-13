@@ -23,13 +23,13 @@ Total: **6,441** lines of code across **2** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.2 / 10**
+Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Dangerous-Workflow** (-1/10) — no workflows found
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Token-Permissions** (-1/10) — No tokens found
 
 ## Source
 
@@ -53,12 +53,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 2 | 1 | 0 | 1 | 11 |
-| last60d | 2026-08-13 | 0 | 3 | 1 | 0 | 1 | 11 |
-| 90d | 2026-07-14 | 0 | 3 | 1 | 0 | 1 | 11 |
-| last180d | 2026-04-15 | 0 | 3 | 1 | 0 | 1 | 11 |
-| 360d | 2025-10-17 | 0 | 3 | 1 | 0 | 1 | 11 |
-| last720d | 2024-10-22 | 1 | 6 | 2 | 1 | 10 | 13 |
+| 30d | 2026-09-13 | 0 | 2 | 1 | 0 | 1 | 11 |
+| last60d | 2026-08-14 | 0 | 3 | 1 | 0 | 1 | 11 |
+| 90d | 2026-07-15 | 0 | 3 | 1 | 0 | 1 | 11 |
+| last180d | 2026-04-16 | 0 | 3 | 1 | 0 | 1 | 11 |
+| 360d | 2025-10-18 | 0 | 3 | 1 | 0 | 1 | 11 |
+| last720d | 2024-10-23 | 1 | 6 | 2 | 1 | 10 | 13 |
 
 ## Improve this data
 
@@ -69,4 +69,4 @@ Install metadata for screenFetch lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T05:45:58Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T06:41:07Z._
