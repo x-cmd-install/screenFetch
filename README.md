@@ -43,7 +43,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,071 · **Forks**: 449 · **Open issues**: 384 · **Contributors**: 161
+- **Stars**: 4,072 · **Forks**: 449 · **Open issues**: 384 · **Contributors**: 161
 
 ## Totals (cumulative)
 
@@ -53,12 +53,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 2 | 1 | 0 | 1 | 11 |
-| last60d | 2026-08-14 | 0 | 3 | 1 | 0 | 1 | 11 |
-| 90d | 2026-07-15 | 0 | 3 | 1 | 0 | 1 | 11 |
-| last180d | 2026-04-16 | 0 | 3 | 1 | 0 | 1 | 11 |
-| 360d | 2025-10-18 | 0 | 3 | 1 | 0 | 1 | 11 |
-| last720d | 2024-10-23 | 1 | 6 | 2 | 1 | 10 | 13 |
+| 30d | 2026-09-14 | 0 | 2 | 1 | 0 | 1 | 11 |
+| last60d | 2026-08-15 | 0 | 3 | 1 | 0 | 1 | 11 |
+| 90d | 2026-07-16 | 0 | 3 | 1 | 0 | 1 | 11 |
+| last180d | 2026-04-17 | 0 | 3 | 1 | 0 | 1 | 11 |
+| 360d | 2025-10-19 | 0 | 3 | 1 | 0 | 1 | 11 |
+| last720d | 2024-10-24 | 1 | 6 | 2 | 1 | 10 | 13 |
 
 ## Improve this data
 
@@ -69,4 +69,4 @@ Install metadata for screenFetch lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T06:41:07Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T04:44:12Z._
