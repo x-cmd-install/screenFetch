@@ -21,6 +21,16 @@ x install screenFetch
 | Bash | 6,425 | 230 | 265 | 1 |
 | Sh | 16 | 1 | 6 | 1 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **4.5 / 10**
+
+评分最低的几项:
+
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/KittyKatt/screenFetch>
@@ -43,12 +53,12 @@ x install screenFetch
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 0 | 1 | 0 | 6 | 0 |
-| last60d | 2026-09-12 | 0 | 2 | 2 | 0 | 7 | 11 |
-| 90d | 2026-08-13 | 0 | 3 | 2 | 0 | 7 | 11 |
-| last180d | 2026-05-15 | 0 | 3 | 2 | 0 | 7 | 11 |
-| 360d | 2025-11-16 | 0 | 3 | 2 | 0 | 7 | 11 |
-| last720d | 2024-11-21 | 1 | 6 | 3 | 1 | 15 | 13 |
+| 30d | 2026-10-13 | 0 | 0 | 1 | 0 | 6 | 0 |
+| last60d | 2026-09-13 | 0 | 2 | 2 | 0 | 7 | 11 |
+| 90d | 2026-08-14 | 0 | 3 | 2 | 0 | 7 | 11 |
+| last180d | 2026-05-16 | 0 | 3 | 2 | 0 | 7 | 11 |
+| 360d | 2025-11-17 | 0 | 3 | 2 | 0 | 7 | 11 |
+| last720d | 2024-11-22 | 1 | 6 | 3 | 1 | 15 | 13 |
 
 ## 改进这些数据
 
@@ -59,4 +69,4 @@ screenFetch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261111.yml` · 2026-11-11T05:57:15Z._
+_数据快照: `data/card/261112.yml` · 2026-11-12T07:00:16Z._
