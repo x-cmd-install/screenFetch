@@ -28,8 +28,8 @@ x install screenFetch
 评分最低的几项:
 
 - **Dangerous-Workflow** (-1/10) — no workflows found
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (-1/10) — No tokens found
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
 
@@ -43,22 +43,22 @@ x install screenFetch
 
 ## 流行度
 
-- **Star**: 4,077 · **Fork**: 450 · **开放 issue**: 390 · **贡献者**: 161
+- **Star**: 4,077 · **Fork**: 450 · **开放 issue**: 391 · **贡献者**: 161
 
 ## 累计统计
 
-- **发布数**: 4 · **已合并 PR**: 299 · **开放 PR**: 31 · **已关闭 issue**: 251 · **开放 issue**: 139 · **提交数**: 1513
+- **发布数**: 4 · **已合并 PR**: 299 · **开放 PR**: 31 · **已关闭 issue**: 251 · **开放 issue**: 140 · **提交数**: 1513
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 1 | 0 | 6 | 0 |
-| last60d | 2026-09-17 | 0 | 2 | 2 | 0 | 7 | 11 |
-| 90d | 2026-08-18 | 0 | 3 | 2 | 0 | 7 | 11 |
-| last180d | 2026-05-20 | 0 | 3 | 2 | 0 | 7 | 11 |
-| 360d | 2025-11-21 | 0 | 3 | 2 | 0 | 7 | 11 |
-| last720d | 2024-11-26 | 1 | 6 | 3 | 1 | 15 | 13 |
+| 30d | 2026-10-18 | 0 | 0 | 1 | 0 | 7 | 0 |
+| last60d | 2026-09-18 | 0 | 2 | 2 | 0 | 8 | 11 |
+| 90d | 2026-08-19 | 0 | 3 | 2 | 0 | 8 | 11 |
+| last180d | 2026-05-21 | 0 | 3 | 2 | 0 | 8 | 11 |
+| 360d | 2025-11-22 | 0 | 3 | 2 | 0 | 8 | 11 |
+| last720d | 2024-11-27 | 1 | 6 | 3 | 1 | 16 | 13 |
 
 ## 改进这些数据
 
@@ -69,4 +69,4 @@ screenFetch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T06:11:37Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T08:14:12Z._
