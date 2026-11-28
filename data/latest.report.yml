@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.9.9"
   latestRelease: "v3.9.9"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:25:54Z
+  collectedAt: 2026-11-28T07:33:56Z
 timeline:
   created: 2010-03-22
   lastCommit: 2026-10-09
@@ -28,7 +28,7 @@ language:
 totalBytes: 269259
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 1
@@ -36,44 +36,44 @@ recent:
     openIssue: 7
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 1
     openPR: 2
     closedIssue: 0
     openIssue: 8
-    commit: 0
+    commit: 11
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
-    mergedPR: 3
+    mergedPR: 2
     openPR: 2
     closedIssue: 0
     openIssue: 8
-    commit: 0
+    commit: 11
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 3
     openPR: 2
     closedIssue: 0
     openIssue: 8
-    commit: 0
+    commit: 11
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 3
     openPR: 2
     closedIssue: 0
     openIssue: 8
-    commit: 0
+    commit: 11
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 6
     openPR: 3
     closedIssue: 1
-    openIssue: 15
+    openIssue: 14
     commit: 11
 total:
   release: 4
@@ -84,7 +84,7 @@ total:
   commit: 1513
 ---
 path: /home/runner/.x-repo/github.com/KittyKatt/screenFetch
-collectedAt: 2026-11-27T08:25:56Z
+collectedAt: 2026-11-28T07:33:57Z
 loc:
   Bash:
     code: 6425
